@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "strict": true, // 얼마나 엄격하게 적용해서 변환시킬 것인지
-    "target": "ES5", // 사용할 특정 ECMAScript 버전 설정
+    "target": "ES6", // 사용할 특정 ECMAScript 버전 설정
     "module": "CommonJS", // 모듈을 위한 코드 생성 설정
     "alwaysStrict": true, // strict mode로 분석하고 모든 소스 파일에 "use strict"를 추가할 지 여부
     "noImplicitAny": true, // 'any' 타입으로 구현된 표현식 혹은 정의 에러처리 표시 여부
